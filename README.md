@@ -1,2 +1,1 @@
-# site2
-my first layout (Mogo)
+# my first layout (Mogo)
